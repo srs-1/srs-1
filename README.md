@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there I'm Swethaa
+
+I am an incoming MS EE student at Columbia University. Previously, I worked in Target Corporation for 2+ years where I focused on improving the retail experience through technology.
+
+In my free time, I like watching KDramas, playing Tennis, trivia and reading.
+
+## Find me around the web:
+- <a href="https://in.linkedin.com/in/swethaashri">LinkedIn</a> 
+
+
+
 
 <!--
 **srs-1/srs-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
