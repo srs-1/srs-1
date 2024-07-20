@@ -1,11 +1,13 @@
-## Hi there I'm Swethaa
-
+### Hi there 👋, my name is Swethaa
 I am an incoming MS EE student at Columbia University. Previously, I worked in Target Corporation for 2+ years where I focused on improving the retail experience through technology.
 
-In my free time, I like watching KDramas, playing Tennis, trivia and reading.
+Skills:  REACT/JS/ PYTHON/ JAVA/MATLAB/C/SQL
 
-## Find me around the web:
-- <a href="https://in.linkedin.com/in/swethaashri">LinkedIn</a> 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/in/swethaashri/)  
+
+
 
 
 
