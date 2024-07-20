@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Swethaa
-I am an incoming MS EE student at Columbia University. Previously, I worked in Target Corporation for 2+ years where I focused on improving the retail experience through technology.
+I am an incoming MS EE student at Columbia University. Previously, I worked in Target Corporation for nearly 3 years where I focused on improving the retail experience through technology.
 
-Skills:  REACT/JS/ PYTHON/ JAVA/MATLAB/C/SQL
+Skills:  REACT/JS/ PYTHON/JAVA/MATLAB/C/SQL
 
 
 
