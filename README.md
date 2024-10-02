@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Swethaa
-I am in my first semester of the MS EE student at Columbia University. Previously, I worked in Target Corporation for nearly 3 years where I focused on improving the retail experience through technology.
+I am in my first semester of the MS EE program at Columbia University. Previously, I worked in Target Corporation for nearly 3 years where I focused on improving the retail experience through technology.
 
 Skills:  REACT/JS/ PYTHON/JAVA/MATLAB/C/SQL
 
