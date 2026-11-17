@@ -11,7 +11,9 @@ Outside of code, you'll probably find me exploring NYC, hunting down a good past
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/swethaashri)  
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40">](https://in.linkedin.com/in/swethaashri)
+
 
 
 
