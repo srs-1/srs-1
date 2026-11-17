@@ -2,14 +2,12 @@
 
 I'm a software engineer who enjoys building scalable systems, solving interesting problems, and turning ideas into things that actually work.
 
-- Previously built backend services, full-stack applications, and developer tools at **Intuit** and **Target**
-- Hold a Master's degree in **Electrical Engineering from Columbia University**, with a focus on data-driven analysis and computation
-- Currently exploring **LLMs, AI agents, and building practical AI-powered applications**
-- Enjoy working with **Python, Kotlin, Javascript, Kafka, PostgreSQL**, and whatever tools help solve the problem
+- Previously built **backend services, full-stack applications, and developer tools** at **Intuit** and **Target**.
+- Hold a Master's degree in **Electrical Engineering from Columbia University**, with a focus on data-driven analysis and computation.
+- Currently exploring **LLMs, AI agents, and practical AI-powered applications**.
+- Enjoy working with **Python, Kotlin, JavaScript, Kafka, PostgreSQL**, and whatever tools help solve the problem.
 
 Outside of code, you'll probably find me exploring NYC, hunting down a good pastry, or playing tennis.
-
-
 
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40">](https://in.linkedin.com/in/swethaashri)
