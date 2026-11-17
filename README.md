@@ -1,7 +1,13 @@
-### Hi there 👋, my name is Swethaa
-I am in my first semester of the MS EE program at Columbia University. Previously, I worked in Target Corporation for nearly 3 years where I focused on improving the retail experience through technology.
+### Hey, I'm Swethaa! 
 
-Skills:  REACT/JS/ PYTHON/JAVA/MATLAB/C/SQL
+I'm a software engineer who enjoys building scalable systems, solving interesting problems, and turning ideas into things that actually work.
+
+- Previously built backend and platform infrastructure at **Intuit** and **Target**, working on distributed systems, APIs, and developer tooling.
+- Hold a Master's degree in **Electrical Engineering from Columbia University**, with a focus on AI/ML.
+- Currently exploring **LLMs, AI agents, and building practical AI-powered applications**.
+- Enjoy working with **Python, Kotlin, Javascript, Kafka, PostgreSQL**, and whatever tools help solve the problem.
+
+Outside of code, you'll probably find me exploring NYC, hunting down a good pastry, or playing tennis.
 
 
 
