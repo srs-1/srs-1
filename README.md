@@ -2,10 +2,10 @@
 
 I'm a software engineer who enjoys building scalable systems, solving interesting problems, and turning ideas into things that actually work.
 
-- Previously built backend and platform infrastructure at **Intuit** and **Target**, working on distributed systems, APIs, and developer tooling.
-- Hold a Master's degree in **Electrical Engineering from Columbia University**, with a focus on AI/ML.
-- Currently exploring **LLMs, AI agents, and building practical AI-powered applications**.
-- Enjoy working with **Python, Kotlin, Javascript, Kafka, PostgreSQL**, and whatever tools help solve the problem.
+- Previously built backend services, full-stack applications, and developer tools at **Intuit** and **Target**
+- Hold a Master's degree in **Electrical Engineering from Columbia University**, with a focus on data-driven analysis and computation
+- Currently exploring **LLMs, AI agents, and building practical AI-powered applications**
+- Enjoy working with **Python, Kotlin, Javascript, Kafka, PostgreSQL**, and whatever tools help solve the problem
 
 Outside of code, you'll probably find me exploring NYC, hunting down a good pastry, or playing tennis.
 
